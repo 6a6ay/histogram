@@ -1,3 +1,7 @@
+#Количество копирований - 68
+#Количество веток - 1
+#Количество разработчиков - 1
+#Регулярность использования - 2,090
 <!--
   Copyright Hans Dembinski 2016 - 2019.
   Distributed under the Boost Software License, Version 1.0.
